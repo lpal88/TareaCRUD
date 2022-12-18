@@ -1,0 +1,8 @@
+li {
+  border:2px solid purple;
+}
+
+ul {
+  list-style: none;
+  border:2px solid blue;
+}
